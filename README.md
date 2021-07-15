@@ -1,7 +1,6 @@
 ## Hey 👋, I'm [Favor!](https://github.com/heyOnuoha/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/favour-onuoha-882bb316b)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://heyonuoha.live/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/heyOnuoha)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/heyonuoha)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/heyOnuoha)
@@ -30,7 +29,7 @@ I am on a journey to make Software Development accessible to everyone in my loca
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
 - 📈 &nbsp; I am a Growth Hacker at [MarketFly](https://marketfly.io)
 - 📫 &nbsp; How to reach me on Twitter: [@heyOnuoha](https://twitter.com/heyOnuoha)
-- 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf)
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf) -->
 
 ### Hobbies:
 
@@ -115,3 +114,5 @@ I am on a journey to make Software Development accessible to everyone in my loca
 ### Made with 💛 by favor onuoha
 
 </div>
+
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://heyonuoha.live/) -->
