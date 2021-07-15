@@ -27,10 +27,10 @@ I am on a journey to make Software Development accessible to everyone in my loca
 ### About Me:
 
 - 🛠 &nbsp; I’m currently working at Teksol Eganow
-- 🚀 &nbsp; I’m currently writing content for my Twitter Audience.
+- 🚀 &nbsp; I’m currently writing content for my Twitter Audience
 - 📈 &nbsp; I am a Growth Hacker at [MarketFly](https://marketfly.io)
-- 📫 &nbsp; How to reach me: favouronu@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf).
+- 📫 &nbsp; How to reach me: favouronu@gmail.com
+- 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf)
 
 ### Hobbies:
 
@@ -62,7 +62,7 @@ I am on a journey to make Software Development accessible to everyone in my loca
 
 <a href="https://www.buymeacoffee.com/heyOnuoha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="heyOnuoha" /></a>
 
-### Projects and Dev Stuffs:
+### My GitHub Stats:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
