@@ -5,11 +5,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/heyOnuoha)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/heyonuoha)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/heyOnuoha)
-
+<!-- 
 <img align="right" height="420"  alt="" src="https://github.com/heyOnuoha/heyOnuoha/blob/main/images/banner2.png" />
 
 <br />
-
+ -->
 ### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=0088cc)
 
 I'm a Senior Software Developer 💻 at eganow and also a Content Creator ✍️ <br />
