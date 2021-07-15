@@ -8,17 +8,15 @@
 
 ### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=0088cc)
 
-I am a Senior Software Developer at eganow and also a Content Creator 🔥
+I'm a Senior Software Developer 💻 at eganow and also a Content Creator 🔥 <br />
+I am self-taught 🚀 and I love talking & writing about Web Development , & Software Development in general.
 
-I am self-taught and I love talking & writing about Machine Learning 🤖, Web Development , & Software Development in general.
+I have been coding for over eight (8) years and am currently a Backend Fintech Engineer 💸 with experience in working with Core Banking Services and SOAP Services with an extensive knowledge of building USSD (Short Codes) 📱 SDPs and the working on Mobile Money frameworks having integrated 👨🏻‍💻 and worked with teams from the major Telecos in Ghana.
 
-I have been coding for over 8 years and am currently a Backend Fintech Engineer with experience in working with Core Banking Services and SOAP Services with an extensive knowledge of building USSD (Short Codes) SDPs and the working on Mobile Money frameworks having integrated and worked with teams from the major Telecos in Ghana.
+I 💛 building real-time applications but I mostly work on and experiment with APIs of all sort and have the love to build APIs and deploy them using my favorite operating system Linux 👾.
 
-My favorite programming languages are JavaScript, Python, Java and C# and I use a variety of Frameworks like Django, React, Node JS, Express JS, ASP.NET Core and Angular.
+I am on a journey to make Software Development accessible to everyone in my locale and abroad and I would love to share that journey with you 💛
 
-I love building real-time applications but I mostly work on and experiment with APIs of all sort and have the love to build APIs and deploy them using my favorite operating system Linux.
-
-I am on a journey to make Software Development accessible to everyone in my locale and abroad and I would love to share that journey with you ❤️
 
 [![](https://gitwar.herokuapp.com/badge?username=heyOnuoha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/heyOnuoha" target="blank"><img src="https://img.shields.io/twitter/follow/heyOnuoha?logo=twitter&style=for-the-badge" alt="heyOnuoha" /></a>
 
