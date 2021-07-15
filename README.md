@@ -27,9 +27,9 @@ I am on a journey to make Software Development accessible to everyone in my loca
 ### About Me:
 
 - 🛠 &nbsp; I’m currently working at Teksol Eganow
-- 🚀 &nbsp; I’m currently writing content for my Twitter Audience
+- 🚀 &nbsp; I’m currently writing content for my Twitter audience
 - 📈 &nbsp; I am a Growth Hacker at [MarketFly](https://marketfly.io)
-- 📫 &nbsp; How to reach me: favouronu@gmail.com
+- 📫 &nbsp; How to reach me on Twitter: [@heyOnuoha](https://twitter.com/heyOnuoha)
 - 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf)
 
 ### Hobbies:
