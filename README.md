@@ -6,6 +6,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/heyonuoha)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/heyOnuoha)
 
+<img align="right" height="420"  alt="" src="https://github.com/heyOnuoha/heyOnuoha/blob/main/images/banner2.png" />
+
+<br />
+
 ### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=0088cc)
 
 I'm a Senior Software Developer 💻 at eganow and also a Content Creator ✍️ <br />
@@ -19,8 +23,6 @@ I am on a journey to make Software Development accessible to everyone in my loca
 
 
 [![](https://gitwar.herokuapp.com/badge?username=heyOnuoha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/heyOnuoha" target="blank"><img src="https://img.shields.io/twitter/follow/heyOnuoha?logo=twitter&style=for-the-badge" alt="heyOnuoha" /></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/heyOnuoha/heyOnuoha/master/gifs/coder.gif" />
 
 ### About Me:
 
