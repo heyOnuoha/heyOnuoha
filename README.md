@@ -9,7 +9,7 @@
 
 <br />
  -->
-### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=0088cc)
+### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
 
 I'm a Senior Software Developer 💻 at eganow and also a Content Creator ✍️ <br />
 I am self-taught 🚀 and I love talking & writing about Web Development , & Software Development in general.
@@ -21,15 +21,15 @@ I 💛 building real-time applications but I mostly work on and experiment with 
 I am on a journey to make Software Development accessible to everyone in my locale and abroad and I would love to share that journey with you 💛
 
 
-[![](https://gitwar.herokuapp.com/badge?username=heyOnuoha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/heyOnuoha" target="blank"><img src="https://img.shields.io/twitter/follow/heyOnuoha?logo=twitter&style=for-the-badge" alt="heyOnuoha" /></a>
+[![](https://gitwar.herokuapp.com/badge?username=heyOnuoha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/heyOnuoha" target="blank"><img src="https://img.shields.io/twitter/follow/heyOnuoha?logo=twitter&style=for-the-badge&color=ffeb00" alt="heyOnuoha" /></a>
 
 ### About Me:
 
 - 🛠 &nbsp; I’m currently working at Teksol Eganow
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
 - 📈 &nbsp; I am a Growth Hacker at [MarketFly](https://marketfly.io)
-- 📫 &nbsp; How to reach me on Twitter: [@heyOnuoha](https://twitter.com/heyOnuoha)
-- 💼 &nbsp; Find my resume on : [LinkedIn](https://www.linkedin.com/in/favour-onuoha-882bb316b)
+- 📫 &nbsp; How to reach me on Twitter [@heyOnuoha](https://twitter.com/heyOnuoha)
+- 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/favour-onuoha-882bb316b)
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf) -->
 
 ### Hobbies:
@@ -97,11 +97,11 @@ I am on a journey to make Software Development accessible to everyone in my loca
     <tbody>
       <tr>
 	<td><a href="https://github.com/heyOnuoha/heyOnuoha"><b>🤓 heyOnuoha</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/heyOnuoha/heyOnuoha?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/heyOnuoha/heyOnuoha?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/heyOnuoha/heyOnuoha?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/heyOnuoha/heyOnuoha?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/heyOnuoha/heyOnuoha?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/heyOnuoha/heyOnuoha?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/heyOnuoha/heyOnuoha?style=flat-square&color=ffeb00"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/heyOnuoha/heyOnuoha?style=flat-square&color=ffeb00"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00"/></td> 
       </tr>
     </tbody>
   </table>
