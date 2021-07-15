@@ -22,14 +22,12 @@ I am on a journey to make Software Development accessible to everyone in my loca
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/heyOnuoha/heyOnuoha/master/gifs/coder.gif" />
 
-### Talking about Personal Stuffs:
+### About Me:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/heyOnuoha).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/heyOnuoha/heyOnuoha/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 🛠 &nbsp; I’m currently working at Teksol Eganow
+- 🚀 &nbsp; I’m currently writing content for my Twitter Audience.
+- 👨🏻‍💻 &nbsp; I am a Growth Hacker at [MarketFly](https://marketfly.io)
+- 📫 &nbsp; How to reach me: favouronu@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
@@ -40,9 +38,10 @@ I am on a journey to make Software Development accessible to everyone in my loca
 
 ### Languages and Tools:
 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
