@@ -27,7 +27,8 @@ I am on a journey to make Software Development accessible to everyone in my loca
 
 - 🛠 &nbsp; I’m currently working at Teksol Eganow
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
-- 📈 &nbsp; I am a Growth Hacker at [MarketFly](https://marketfly.io)
+- 📈 &nbsp; I am a Community Lead at [Showwcase](https://showwcase.com)
+- ✍️ &nbsp; I am a Web3 Technical Writer at [Hashnode](https://web3.hashnode.com) and [Alchemy](https://alchemy.com) respectively
 - 📫 &nbsp; How to reach me on Twitter [@heyOnuoha](https://twitter.com/heyOnuoha)
 - 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/favour-onuoha-882bb316b)
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf) -->
