@@ -9,7 +9,7 @@
 
 <br />
  -->
-### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
+### Great! You have arrived! Our encounter will be legendary!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
 
 I'm a Developer Relations Lead and a Backend Developer at Showwcase. I'm also a Content Creator, Web3 Developer, and Technical Writer in the Web3 space.
 
