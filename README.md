@@ -11,24 +11,23 @@
  -->
 ### Great! You have arrived here &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
 
-I'm a Senior Software Developer 💻 at eganow and also a Content Creator ✍️ <br />
-I am self-taught 🚀 and I love talking & writing about Web Development , & Software Development in general.
+I'm a Developer Relations Lead and a Backend Developer at Showwcase. I'm also a Content Creator, Web3 Developer, and Technical Writer in the Web3 space.
 
-I have been coding for over eight (8) years and am currently a Backend Fintech Engineer 💸 with experience in working with Core Banking Services and SOAP Services with an extensive knowledge of building USSD (Short Codes) 📱 SDPs and the working on Mobile Money frameworks having integrated 👨🏻‍💻 and worked with teams from the major Telecos in Ghana.
+I am self-taught, and love discussing and writing about web development, web3, and software development.
 
-I 💛 building real-time applications but I mostly work on and experiment with APIs of all sort and have the love to build APIs and deploy them using my favorite operating system Linux 👾.
+I have built several NFT Projects and written numerous technical articles for my blog and other brands in the web3 space.
 
-I am on a journey to make Software Development accessible to everyone in my locale and abroad and I would love to share that journey with you 💛
+I'm currently building in web3 and love the journey so far! I aim to onboard more people into web3.
 
 
 [![](https://gitwar.herokuapp.com/badge?username=heyOnuoha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/heyOnuoha" target="blank"><img src="https://img.shields.io/twitter/follow/heyOnuoha?logo=twitter&style=for-the-badge&color=ffeb00" alt="heyOnuoha" /></a>
 
 ### About Me:
 
-- 🛠 &nbsp; I’m currently working at Teksol Eganow
+- 🛠 &nbsp; I’m currently working at Showwcase
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
-- 📈 &nbsp; I am a Community Lead at [Showwcase](https://showwcase.com)
-- ✍️ &nbsp; I am a Web3 Technical Writer at [Hashnode](https://web3.hashnode.com) and [Alchemy](https://alchemy.com) respectively
+- 📈 &nbsp; I am a Developer Relations Lead at [Showwcase](https://showwcase.com)
+- ✍️ &nbsp; I was Web3 Technical Writer at [Hashnode](https://web3.hashnode.com) and [Alchemy](https://alchemy.com) respectively
 - 📫 &nbsp; How to reach me on Twitter [@heyOnuoha](https://twitter.com/heyOnuoha)
 - 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/favour-onuoha-882bb316b)
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf) -->
