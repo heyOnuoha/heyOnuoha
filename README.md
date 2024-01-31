@@ -11,7 +11,7 @@
  -->
 ### Great! You have arrived! Our encounter will be legendary!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
 
-I'm a Developer Relations Lead and a Backend Developer at Showwcase. I'm also a Content Creator, Web3 Developer, and Technical Writer in the Web3 space.
+I'm a Developer Relations Engineer at Swing Finance. I'm also a Content Creator, Web3 Developer, and Technical Writer in the Web3 space.
 
 I am self-taught, and love discussing and writing about web development, web3, and software development.
 
@@ -24,7 +24,7 @@ I'm currently building in web3 and love the journey so far! I aim to onboard mor
 
 ### About Me:
 
-- 🛠 &nbsp; I’m currently working at [Swing](https://swing.xyz)
+- 🛠 &nbsp; I’m currently working at [Swing Finance](https://swing.xyz)
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
 - 📈 &nbsp; I am a Developer Relations Lead at [Swing](https://showwcase.com)
 - ✍️ &nbsp; I was Web3 Technical Writer at [Hashnode](https://web3.hashnode.com) and [Alchemy](https://alchemy.com) respectively
