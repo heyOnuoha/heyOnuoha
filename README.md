@@ -24,9 +24,9 @@ I'm currently building in web3 and love the journey so far! I aim to onboard mor
 
 ### About Me:
 
-- 🛠 &nbsp; I’m currently working at Showwcase
+- 🛠 &nbsp; I’m currently working at [Swing](https://swing.xyz)
 - 🚀 &nbsp; I’m currently writing content for my Twitter audience
-- 📈 &nbsp; I am a Developer Relations Lead at [Showwcase](https://showwcase.com)
+- 📈 &nbsp; I am a Developer Relations Lead at [Swing](https://showwcase.com)
 - ✍️ &nbsp; I was Web3 Technical Writer at [Hashnode](https://web3.hashnode.com) and [Alchemy](https://alchemy.com) respectively
 - 📫 &nbsp; How to reach me on Twitter [@heyOnuoha](https://twitter.com/heyOnuoha)
 - 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/favour-onuoha-882bb316b)
