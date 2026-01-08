@@ -11,26 +11,9 @@
  -->
 ### Great! You have arrived! Our encounter will be legendary!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
 
-I'm a Developer Relations Engineer at Swing Finance. I'm also a Content Creator, Web3 Developer, and Technical Writer in the Web3 space.
-
-I am self-taught, and love discussing and writing about web development, web3, and software development.
-
-I have built several NFT Projects and written numerous technical articles for my blog and other brands in the web3 space.
-
-I'm currently building in web3 and love the journey so far! I aim to onboard more people into web3.
-
+I'm a Developer Relations Engineer at Swing Finance. I'm also Web3 Developerin the Web3 space who has onboarded thousands of developers into the ecosystem.
 
 [![](https://gitwar.herokuapp.com/badge?username=heyOnuoha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/heyOnuoha" target="blank"><img src="https://img.shields.io/twitter/follow/heyOnuoha?logo=twitter&style=for-the-badge&color=ffeb00" alt="heyOnuoha" /></a>
-
-### About Me:
-
-- 🛠 &nbsp; I’m currently working at [Swing Finance](https://swing.xyz)
-- 🚀 &nbsp; I’m currently writing content for my Twitter audience
-- 📈 &nbsp; I am a Developer Relations Lead at [Swing](https://showwcase.com)
-- ✍️ &nbsp; I was Web3 Technical Writer at [Hashnode](https://web3.hashnode.com) and [Alchemy](https://alchemy.com) respectively
-- 📫 &nbsp; How to reach me on Twitter [@heyOnuoha](https://twitter.com/heyOnuoha)
-- 💼 &nbsp; Find my resume on [LinkedIn](https://www.linkedin.com/in/favour-onuoha-882bb316b)
-<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf) -->
 
 ### Hobbies:
 
@@ -57,10 +40,6 @@ I'm currently building in web3 and love the journey so far! I aim to onboard mor
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
-
-### Support:
-
-<a href="https://www.buymeacoffee.com/heyOnuoha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="heyOnuoha" /></a>
 
 ### My GitHub Stats:
 
