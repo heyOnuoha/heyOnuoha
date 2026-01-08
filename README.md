@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Favor!](https://github.com/heyOnuoha/)
+## Hey 👋, I'm [Favour!](https://github.com/heyOnuoha/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/favour-onuoha-882bb316b)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/heyOnuoha)
@@ -25,7 +25,7 @@ I'm a Developer Relations Engineer at Swing Finance. I'm also Web3 Developer in 
 
 <div align="center">
 
-### Made with 💛 by favor onuoha
+### Made with 💛 by favour onuoha
 
 </div>
 
