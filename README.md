@@ -7,12 +7,6 @@ I'm a Developer Relations Engineer at Swing Finance. I'm also Web3 Developer in 
 
 [![](https://gitwar.herokuapp.com/badge?username=heyOnuoha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/heyOnuoha" target="blank"><img src="https://img.shields.io/twitter/follow/heyOnuoha?logo=twitter&style=for-the-badge&color=ffeb00" alt="heyOnuoha" /></a>
 
-### Hobbies:
-
-- 🎸 &nbsp; I enjoy playing my guitar.
-- 🎮 &nbsp; I love playing games.
-- ✍️ &nbsp; I love reading and writing.
-
 ### Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
