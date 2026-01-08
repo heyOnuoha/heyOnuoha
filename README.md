@@ -2,13 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/favour-onuoha-882bb316b)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/heyOnuoha)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/heyonuoha)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/heyOnuoha)
-<!-- 
-<img align="right" height="420"  alt="" src="https://github.com/heyOnuoha/heyOnuoha/blob/main/images/banner2.png" />
 
-<br />
- -->
 ### Great! You have arrived! Our encounter will be legendary!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
 
 I'm a Developer Relations Engineer at Swing Finance. I'm also Web3 Developerin the Web3 space who has onboarded thousands of developers into the ecosystem.
@@ -36,58 +30,6 @@ I'm a Developer Relations Engineer at Swing Finance. I'm also Web3 Developerin t
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
-
-### My GitHub Stats:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyOnuoha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyOnuoha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=heyOnuoha&hide_border=true" />
-</details>
-
-<details>
-  <summary><b>🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	<td><a href="https://github.com/heyOnuoha/heyOnuoha"><b>🤓 heyOnuoha</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/heyOnuoha/heyOnuoha?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/heyOnuoha/heyOnuoha?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/heyOnuoha/heyOnuoha?style=flat-square&color=ffeb00"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/heyOnuoha/heyOnuoha?style=flat-square&color=ffeb00"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
-
-#
 
 <div align="center">
 
